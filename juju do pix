@@ -14,7 +14,8 @@
     <header class="container text-conter">
         <header class="container text-conter">
             <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F329044316542285628%2F&psig=AOvVaw24mykNvEZzymlmMQYEkTvi&ust=1747352020428000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPimpuOPpI0DFQAAAAAdAAAAABAM"
-                <p class="lead">Eu sou Elaine Linda</p>
+                alt="avatar Elaine_Linda" class="rounded-circle" width="150" height="150" srcset="">
+            <p class="lead">Eu sou Elaine Linda</p>
             <h1>Eu amo a pintar as unhas, ler literatura brasileira e assistir filmes</h1>
             <p>Minhas habilidades</p>
             <div>
@@ -33,7 +34,7 @@
                 <!--Projeto 1-->
                 <div class="col-md-4">
                     <div class="card" style="width: 18rem;">
-                        <img src="\Marcelo_Sanji01\Imagens\left_4_dead.jpg" class="card-img-top"
+                        <img src="\Elaine01\Imagens\Free_Fire.jpg" class="card-img-top"
                             alt="Imagem do projeto de biblioteca virtual">
                         <div class="card-body">
                             <h5 class="card-title">Minha Biblioteca: Uma Webpage Criativa</h5>
@@ -54,7 +55,7 @@
             <!--Projeto 2-->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="\Marcelo_Sanji01\Imagens\One_piece.jpg" class="card-img-top"
+                    <img src="\Elaine01\Imagens\One_Piece.jpg" class="card-img-top"
                         alt="imagem do projeto de biblioteca virtual">
                     <div class="card-body">
                         <h5 class="card-title">Descobrindo novidades: Uma Aventura sobre animações</h5>
@@ -73,7 +74,7 @@
             <!--Projeto 3-->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="\Marcelo_Sanji01\Imagens\livro_calculo_vol.1.jpg" class="card-img-top"
+                    <img src="\Elaine01\Imagens\Cálculo_vol.1.jpg" class="card-img-top"
                         alt="imagem do projeto de biblioteca virtual">
                     <div class="card-body">
                         <h5 class="card-title">Tenha Um Otímo Conhecimento Matematico!</h5>
@@ -99,13 +100,13 @@
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
-                        <p> Este projeto é uma página web que apresenta um dos meus jogos
-                            favoritos desde pequeno, incluindo informações sobre os criadores, datas de lançamento e
+                        <p> Este projeto é uma página web que apresenta um dos meus jogos favoritos
+                            desde mais nova, incluindo informações sobre os criadores, datas de lançamento e
                             links para
                             abaixar ou comprar Steam. A página foi criada com CSS para uma visão agradável e uso de
                             fontes
                             externas do Google Fonts.</p>
-                        <img src="\Marcelo_Sanji01\Imagens\left_4_dead.jpg" class="card-img-top"
+                        <img src="\Elaine01\Imagens\Free_Fire.jpg" class="card-img-top"
                             alt="Imagem do projeto de biblioteca virtual">
                     </div>
                     <div class="modal-footer">
@@ -128,7 +129,7 @@
                         <p>Neste projeto, se encontra um objetivo baseado em aventuras, explorações com
                             impactos e implicações sobre o tesouro (One Piece) entre os pirata e a marinha, obtendo os
                             sentimentos dos fãs com o contesto da história. </p>
-                        <img src="\Marcelo_Sanji01\Imagens\One_piece.jpg" class="card-img-top"
+                        <img src="\Elaine01\Imagens\One_Piece.jpg" class="card-img-top"
                             alt="Imagem do projeto de biblioteca virtual">
                     </div>
                     <div class="modal-footer">
@@ -151,7 +152,7 @@
                         <p>E neste projeto irá apresentar e falar resumidamente sobre o livro mais
                             querido por todos, os matematicos e também por aqueles que querer saber sobre tudo.
                             Um livro cheio de contas, calculos interesantes e conhecimentos, juntando a Física. </p>
-                        <img src="\Marcelo_Sanji01\Imagens\livro_calculo_vol.1.jpg" class="card-img-top"
+                        <img src="\Elaine01\Imagens\Cálculo_vol.1.jpg" class="card-img-top"
                             alt="Imagem do projeto de biblioteca virtual">
                     </div>
                     <div class="modal-footer">
@@ -166,7 +167,7 @@
             <h2>Entre em contato</h2>
             <div>
                 <i class="bi bi-github"></i>
-                <a href="https://github.com/natmhdsdo">GitHub</a>
+                <a href="https://github.com/Elainelinda2e">GitHub</a>
             </div>
             <p class="my-5 text-center">© Copyright 2024. Produzido por Elaine_Linda</p>
         </footer>
